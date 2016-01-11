@@ -1,22 +1,23 @@
 # Site settings
-title: Trương Đức Duy
+title: Truong Duc Duy's Blog
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Blog về Lập trình Android, phát triển Web và tất tần tật những thứ mà mình muốn chia sẻ.
+  Android development, Web development and all the things I want to share.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://duytruong.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Trương Đức Duy
-  googleplus: 
+  googleplus:
   github: duytruong
-  twitter: 
+  twitter:
   disqus: duytruong
   facebook: truongduy93
 
-# google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: UA-63845323-1
 
 # Build settings
 markdown: kramdown
+gems:
+  - jemoji

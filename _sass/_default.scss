@@ -26,6 +26,11 @@ img {
     max-width: 100%;
 }
 
+img.emoji {
+  display: inline;
+  margin: 0;
+}
+
 blockquote {
     letter-spacing: 3px;
     margin:0px;
