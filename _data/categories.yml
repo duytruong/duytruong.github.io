@@ -1,8 +1,5 @@
-- slug: design
-  name: Design
+- slug: android
+  name: Android
 
-- slug: tools
-  name: Tools
-
-- slug: productivity
-  name: Productivity
+- slug: web
+  name: Web
