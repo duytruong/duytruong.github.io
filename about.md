@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About
-subtitle: Just who the hell you think I am?
+subtitle: KEEP CALM AND I AM JUST a NOOB
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Sau nhiều lần chọn lựa giữa hàng trăm theme cho [Jekyll](https://jekyllrb.com/ "Jekyll") trên Github thì cuối cùng cũng thấy ưng ý nhất với theme [Daktilo](https://github.com/kronik3r/daktilo/ "Daktilo") này. Nhiều lúc có quá nhiều lựa chọn cũng khổ :smirk:
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+"Căn nhà nhỏ trên Internet" này là nơi mình chia sẻ những thứ hay ho (mà cũng có thể không) mình lượm lặt được (kỹ thuật lẫn phi kỹ thuật). Về kỹ thuật thì chủ yếu về Android, Web, còn phi kỹ thuật thì có thể là... bất cứ thứ gì - mình cũng không rõ nữa :satisfied:
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Ah và mình cũng rất thích chơi Liên Minh Huyền Thoại nữa (hứng thú chơi mỗi cái này) :stuck_out_tongue_winking_eye:
