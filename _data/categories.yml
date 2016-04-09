@@ -3,3 +3,6 @@
 
 - slug: web
   name: Web
+
+- slug: mysql
+  name: MySQL

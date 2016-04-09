@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-subtitle: KEEP CALM AND I AM JUST a NOOB
 permalink: /about/
 ---
 
