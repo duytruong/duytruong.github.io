@@ -1,23 +1,29 @@
-# Site settings
-title: Truong Duc Duy's Blog
-description: >
-  Blog về Lập trình Android, phát triển Web và tất tần tật những thứ mà mình muốn chia sẻ.
-  Android development, Web development and all the things I want to share.
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://duytruong.github.io" # the base hostname & protocol for your site
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Duy's blog
+tagline:          ''
+description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://duytruong.github.io
+baseurl:          ''
 
 author:
-  fullname: Trương Đức Duy
-  googleplus:
-  github: duytruong
-  twitter:
-  disqus: duytruong
-  facebook: truongduy93
+  name:           'Duy Truong'
+  url:            https://twitter.com/dauruy
+  disqus:         duytruong
+  github:         duytruong
 
+paginate:         5
 google_analytics: UA-63845323-1
+# Custom vars
+version:          2.0.0
 
-# Build settings
-markdown: kramdown
+github:
+  repo:           https://github.com/poole/lanyon
 gems:
-  - jemoji
+  - jekyll-paginate

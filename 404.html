@@ -1,13 +1,10 @@
 ---
-layout: page
-title: 404
+layout: default
+title: "404: Page not found"
+permalink: 404.html
 ---
 
-<h2 class="go-home">Rất tiếc, trang này không tồn tại :(</h2>
-<h2 class="go-home">
-    I suggest you <a href="/">going home</a>, it's 404 and it's getting dark!
-</h2>
-
-
-<!-- Adding the glitch effect -->
-<script> document.getElementsByTagName('body')[0].classList.add('glitch'); </script>
+<div class="page">
+  <h1 class="page-title">404: Page not found</h1>
+  <p class="lead">Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. <a href="{{ site.baseurl }}/">Head back home</a> to try finding it again.</p>
+</div>
