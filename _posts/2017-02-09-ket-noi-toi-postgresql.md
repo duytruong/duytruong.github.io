@@ -6,6 +6,7 @@ title: Note về chuyện kết nối tới PostgreSQL
 
 Gần đây mình có tạo một Spring-Boot app connect tới PostgreSQL (tất cả đều nắm trên máy local). Lúc chạy thì bị báo lỗi không login được
 
+
 > org.postgresql.util.PSQLException: FATAL: password authentication failed for user "username"
 
 Username và password cấu hình trong app là username và password của tài khoản Ubuntu mà mình login vào máy. Khi login vào PostgreSQL bằng lệnh
